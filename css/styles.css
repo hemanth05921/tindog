@@ -245,14 +245,14 @@ p {
     text-align: center;
   }
 
-  .iphone6 {
+  .title-image {
     position: static;
     transform: rotate(0);
   }
 }
 
 @media screen and (min-width:992px) and (max-width:1118px) {
-  .iphone6 {
+  .title-image {
     position: static;
     transform: rotate(25deg);
     margin-top: 100px;
@@ -265,7 +265,7 @@ p {
     text-align: center;
   }
 
-  .iphone6 {
+  .title-image {
     position: static;
     transform: rotate(0deg);
   }
